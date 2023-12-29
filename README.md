@@ -1,4 +1,4 @@
-** ####  It a collective effort by some passionate tech addicts from CU CSE-23. Our aim is to solve questions which are given as task by our respective teachers.
+####  It a collective effort by some passionate tech addicts from CU CSE-23. Our aim is to solve questions which are given as task by our respective teachers.
 # Tools Used:
 ___
 + Git
