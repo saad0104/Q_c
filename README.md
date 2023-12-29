@@ -8,4 +8,4 @@ ___
 ## Social Media: 
 [Facebook](https://www.facebook.com/abdullahal.emon.5070)
 <br>
-[Medium] (https://medium.com/@mdabdullahemon4075)
+[Medium](https://medium.com/@mdabdullahemon4075)
