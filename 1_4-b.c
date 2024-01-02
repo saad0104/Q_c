@@ -1,3 +1,8 @@
+//ques paper 1
+//4(b)
+//Super Prime
+
+
 #include<stdio.h>
 int main()
 {
